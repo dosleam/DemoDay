@@ -60,7 +60,7 @@ Bienvenue dans **Echo Shot VR**, un projet immersif qui combine exploration, int
 - **Gâchette gauche** : Viser.
 
 ### Recharge
-- Saisir le chargeur de l'arme pour le sortir et le remplacer par un noiveau chargeur situé sur votre ceinture.
+- Saisir le chargeur de l'arme pour le sortir et le remplacer par un nouveau chargeur situé sur votre ceinture.
 
 ### Système de score
 - Les points s'affichent en haut à gauche de l'interface.
