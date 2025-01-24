@@ -31,7 +31,7 @@ Bienvenue dans **Echo Shot VR**, un projet immersif qui combine exploration, int
 ## 🚀 **Installation et configuration**
 
 ### Prérequis
-- Unity version **2021.3 LTS** ou supérieure.
+- Unity version **2022.3.50f1** ou supérieure.
 - Casque **Meta Quest 2** configuré pour le développement.
 - SDK Oculus intégré dans Unity.
 
@@ -94,7 +94,12 @@ Bienvenue dans **Echo Shot VR**, un projet immersif qui combine exploration, int
 ---
 
 ## 🖼️ **Aperçu visuel**
-
+![Capture d'écran 2025-01-24 093225](https://github.com/user-attachments/assets/9581c581-16be-4bf8-b989-7b3827db46a9)
+![Capture d'écran 2025-01-24 093241](https://github.com/user-attachments/assets/768eb7bf-c4db-4493-92cf-abf6b94aa869)
+![Capture d'écran 2025-01-24 093306](https://github.com/user-attachments/assets/51677c0b-42a1-455d-a65d-06c2360ff931)
+![Capture d'écran 2025-01-24 093201](https://github.com/user-attachments/assets/65a93366-fa67-4c1c-bea6-492baa299095)
+![Capture d'écran 2025-01-24 093347](https://github.com/user-attachments/assets/17ac73c8-5fcd-4577-9e96-a129dac65c7c)
+![Capture d'écran 2025-01-24 093706](https://github.com/user-attachments/assets/4bfafc33-1b36-4c25-aa3f-bcd1704c6a80)
 
 
 ---
